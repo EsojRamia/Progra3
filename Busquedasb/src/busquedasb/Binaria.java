@@ -13,6 +13,7 @@ package busquedasb;
  * Jose María de la Garza 513097
  * Luis Iván García
  * 3er Semestre ITIC
+ * PRueba
  */
 public class Binaria extends Busqueda{/*Creación de la clase hija Binaria, la cual hereda de la Busqueda el método abstracto buscar,
     en esta clase se implementará dicho método, haciendo énfasis en el tipo de búsqueda binaria, 
